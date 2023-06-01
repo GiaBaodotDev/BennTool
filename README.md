@@ -14,7 +14,6 @@ BennTool is my first C++ project to hide and unhide file(s) and folder(s). This 
 <br>To unhide files, press 'D'
 <br>To unhide folder, press 'F'
 <br>To exit program, press 'Q'
-<br>This is the demo:
-<picture>
- <img alt="YOUR-ALT-TEXT" src="https://i.imgur.com/9YxCJUU.png">
-</picture>
+<br>This is the demo of BennTool v1.0:<br>
+https://github.com/GiaBaodotDev/BennTool/assets/106833560/733d279a-9426-49a6-9f5b-53aa769a9fe9
+
